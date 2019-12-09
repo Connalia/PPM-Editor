@@ -1,0 +1,20 @@
+﻿  Main.cpp
+c:\my_work\οικονομικο πανεπιστημιο αθηνας πληροφορικη\7o_εξαμηνο2018-19_(τέταρτο_ετος)\προγραμματισμοσ c++\!εργασια\2o μερος\2ndassg_3150092_3150118\filter\filter\filterlinear.h : fatal error C1081: 'c:\my_work\Î¿Î¹ÎºÎ¿Î½Î¿Î¼Î¹ÎºÎ¿ Ï€Î±Î½ÎµÏ€Î¹ÏƒÏ„Î·Î¼Î¹Î¿ Î±Î¸Î·Î½Î±Ï‚ Ï€Î»Î·ÏÎ¿Ï†Î¿ÏÎ¹ÎºÎ·\7o_ÎµÎ¾Î±Î¼Î·Î½Î¿2018-19_(Ï„Î­Ï„Î±ÏÏ„Î¿_ÎµÏ„Î¿Ï‚)\Ï€ÏÎ¿Î³ÏÎ±Î¼Î¼Î±Ï„Î¹ÏƒÎ¼Î¿Ïƒ c++\!ÎµÏÎ³Î±ÏƒÎ¹Î±\2o Î¼ÎµÏÎ¿Ï‚\2ndassg_3150092_3150118\filter\filter\filterlinear.h': file name too long
+  Image.cpp
+c:\my_work\οικονομικο πανεπιστημιο αθηνας πληροφορικη\7o_εξαμηνο2018-19_(τέταρτο_ετος)\προγραμματισμοσ c++\!εργασια\2o μερος\2ndassg_3150092_3150118\filter\filter\image.cpp(121): warning C4018: '<': signed/unsigned mismatch
+c:\my_work\οικονομικο πανεπιστημιο αθηνας πληροφορικη\7o_εξαμηνο2018-19_(τέταρτο_ετος)\προγραμματισμοσ c++\!εργασια\2o μερος\2ndassg_3150092_3150118\filter\filter\image.cpp(151): warning C4018: '<': signed/unsigned mismatch
+  FilterLinear.cpp
+c:\my_work\οικονομικο πανεπιστημιο αθηνας πληροφορικη\7o_εξαμηνο2018-19_(τέταρτο_ετος)\προγραμματισμοσ c++\!εργασια\2o μερος\2ndassg_3150092_3150118\filter\filter\filterlinear.h : fatal error C1081: 'c:\my_work\Î¿Î¹ÎºÎ¿Î½Î¿Î¼Î¹ÎºÎ¿ Ï€Î±Î½ÎµÏ€Î¹ÏƒÏ„Î·Î¼Î¹Î¿ Î±Î¸Î·Î½Î±Ï‚ Ï€Î»Î·ÏÎ¿Ï†Î¿ÏÎ¹ÎºÎ·\7o_ÎµÎ¾Î±Î¼Î·Î½Î¿2018-19_(Ï„Î­Ï„Î±ÏÏ„Î¿_ÎµÏ„Î¿Ï‚)\Ï€ÏÎ¿Î³ÏÎ±Î¼Î¼Î±Ï„Î¹ÏƒÎ¼Î¿Ïƒ c++\!ÎµÏÎ³Î±ÏƒÎ¹Î±\2o Î¼ÎµÏÎ¿Ï‚\2ndassg_3150092_3150118\filter\filter\filterlinear.h': file name too long
+  FilterGamma.cpp
+c:\my_work\οικονομικο πανεπιστημιο αθηνας πληροφορικη\7o_εξαμηνο2018-19_(τέταρτο_ετος)\προγραμματισμοσ c++\!εργασια\2o μερος\2ndassg_3150092_3150118\filter\filter\filtergamma.h : fatal error C1081: 'c:\my_work\Î¿Î¹ÎºÎ¿Î½Î¿Î¼Î¹ÎºÎ¿ Ï€Î±Î½ÎµÏ€Î¹ÏƒÏ„Î·Î¼Î¹Î¿ Î±Î¸Î·Î½Î±Ï‚ Ï€Î»Î·ÏÎ¿Ï†Î¿ÏÎ¹ÎºÎ·\7o_ÎµÎ¾Î±Î¼Î·Î½Î¿2018-19_(Ï„Î­Ï„Î±ÏÏ„Î¿_ÎµÏ„Î¿Ï‚)\Ï€ÏÎ¿Î³ÏÎ±Î¼Î¼Î±Ï„Î¹ÏƒÎ¼Î¿Ïƒ c++\!ÎµÏÎ³Î±ÏƒÎ¹Î±\2o Î¼ÎµÏÎ¿Ï‚\2ndassg_3150092_3150118\filter\filter\filtergamma.h': file name too long
+  FilterBlur.cpp
+c:\my_work\οικονομικο πανεπιστημιο αθηνας πληροφορικη\7o_εξαμηνο2018-19_(τέταρτο_ετος)\προγραμματισμοσ c++\!εργασια\2o μερος\2ndassg_3150092_3150118\filter\filter\filterblur.cpp(20): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\my_work\οικονομικο πανεπιστημιο αθηνας πληροφορικη\7o_εξαμηνο2018-19_(τέταρτο_ετος)\προγραμματισμοσ c++\!εργασια\2o μερος\2ndassg_3150092_3150118\filter\filter\filterblur.cpp(29): warning C4018: '<': signed/unsigned mismatch
+c:\my_work\οικονομικο πανεπιστημιο αθηνας πληροφορικη\7o_εξαμηνο2018-19_(τέταρτο_ετος)\προγραμματισμοσ c++\!εργασια\2o μερος\2ndassg_3150092_3150118\filter\filter\filterblur.cpp(30): warning C4018: '<': signed/unsigned mismatch
+c:\my_work\οικονομικο πανεπιστημιο αθηνας πληροφορικη\7o_εξαμηνο2018-19_(τέταρτο_ετος)\προγραμματισμοσ c++\!εργασια\2o μερος\2ndassg_3150092_3150118\filter\filter\filterblur.cpp(35): warning C4018: '<': signed/unsigned mismatch
+c:\my_work\οικονομικο πανεπιστημιο αθηνας πληροφορικη\7o_εξαμηνο2018-19_(τέταρτο_ετος)\προγραμματισμοσ c++\!εργασια\2o μερος\2ndassg_3150092_3150118\filter\filter\array.h(70): warning C4018: '<=': signed/unsigned mismatch
+  c:\my_work\οικονομικο πανεπιστημιο αθηνας πληροφορικη\7o_εξαμηνο2018-19_(τέταρτο_ετος)\προγραμματισμοσ c++\!εργασια\2o μερος\2ndassg_3150092_3150118\filter\filter\array.h(68): note: while compiling class template member function 'float &math::Array<float>::operator ()(int,int)'
+  c:\my_work\οικονομικο πανεπιστημιο αθηνας πληροφορικη\7o_εξαμηνο2018-19_(τέταρτο_ετος)\προγραμματισμοσ c++\!εργασια\2o μερος\2ndassg_3150092_3150118\filter\filter\filterblur.cpp(20): note: see reference to function template instantiation 'float &math::Array<float>::operator ()(int,int)' being compiled
+  c:\my_work\οικονομικο πανεπιστημιο αθηνας πληροφορικη\7o_εξαμηνο2018-19_(τέταρτο_ετος)\προγραμματισμοσ c++\!εργασια\2o μερος\2ndassg_3150092_3150118\filter\filter\filterblur.h(11): note: see reference to class template instantiation 'math::Array<float>' being compiled
+  Filter.cpp
+  Generating Code...
